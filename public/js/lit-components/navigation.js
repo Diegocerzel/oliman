@@ -1333,6 +1333,9 @@ class FooterComponent extends LitElement {
                   bcoliman@yahoo.com.mx
                 </a>
               </li>
+              <li>
+                <a href="tel:2222381668">222 238 1668</a>
+              </li>
             </ul>
           </div>
         </div>
