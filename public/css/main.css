@@ -445,8 +445,10 @@ nav a.active::after {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: flex-start;
-  align-content: start;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  width: 100%;
 }
 
 .auto-flex-start {
@@ -510,9 +512,9 @@ nav a.active::after {
 /* Styles for contact banner wrapper */
 
 .contact-banner {
-  margin-bottom:var(--dynamic-padding-1);
-  padding:var(--dynamic-padding-1) var(--dynamic-padding-1);
-  background:var(--theme-beige);
+  margin-bottom: var(--dynamic-padding-1);
+  padding: var(--dynamic-padding-1) var(--dynamic-padding-1);
+  background: var(--theme-beige);
 }
 
 /**/
