@@ -1,3 +1,9 @@
+.nosotros-hero {
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+}
+
 .nosotros-hero h2,
 .nosotros-hero p {
   text-align: center;
@@ -31,7 +37,6 @@
   margin-top: var(--dynamic-padding-3);
 }
 .empresa {
- 
 }
 .empresa p {
   margin-top: var(--dynamic-padding-3);
