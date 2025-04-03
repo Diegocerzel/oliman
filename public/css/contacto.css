@@ -1,6 +1,7 @@
 section.contacto {
   padding-top: var(--dynamic-padding-1);
   padding-bottom: var(--dynamic-padding-1);
+  flex-direction: row;
 }
 .contact.left {
   padding-left: var(--dynamic-padding-2);
