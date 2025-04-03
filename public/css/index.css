@@ -7,6 +7,10 @@
   max-height: 400px;
 }
 
+.hero-title {
+  align-items: flex-start !important;
+}
+
 .hero-title > h1 {
   max-width: 280px;
   font-family: "Arimo", sans-serif !important;
